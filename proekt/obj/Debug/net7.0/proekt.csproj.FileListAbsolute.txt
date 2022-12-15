@@ -1,0 +1,15 @@
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\bin\Debug\net7.0\proekt.exe
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\bin\Debug\net7.0\proekt.deps.json
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\bin\Debug\net7.0\proekt.runtimeconfig.json
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\bin\Debug\net7.0\proekt.dll
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\bin\Debug\net7.0\proekt.pdb
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\proekt.csproj.AssemblyReference.cache
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\proekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\proekt.AssemblyInfoInputs.cache
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\proekt.AssemblyInfo.cs
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\proekt.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\proekt.dll
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\refint\proekt.dll
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\proekt.pdb
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\proekt.genruntimeconfig.cache
+C:\УЧЕБА\MySeminarsC#\itogy\proekt\obj\Debug\net7.0\ref\proekt.dll
